@@ -1,0 +1,8 @@
+.new-content{
+  border: 1px solid rgba(0,0,0,.125);
+  padding: 12px;
+}
+
+#new-item{
+  width: 250px;
+}
